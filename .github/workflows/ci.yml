@@ -25,4 +25,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          
+          # Add the src directory to the Python path
+          export PYTHONPATH=$(pwd)/src:$PYTHONPATH
+          
+          # Run tests
           pytest tests
