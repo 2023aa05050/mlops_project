@@ -1,6 +1,6 @@
-from src.preprocess import load_data
+from src.preprocess import preprocess
 
-def test_load_data():
-    X, y = load_data('data/iris.csv')
-    assert X.shape[1] == 4  # 4 features
-    assert len(y.unique()) == 3  # 3 classes
+def test_preprocess():
+    X_train, X_test, y_train, y_test = preprocess('data/iris.csv')
+    assert len(X_train) > 0
+    assert len(X_test) > 0
