@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-def load_data(file_path='data/iris.csv'):
+def load_data(file_path='data/Iris.csv'):
     data = pd.read_csv(file_path)
     X = data.drop(['species', 'Id'], axis=1)  # Exclude 'Id' from features
     y = data['species']

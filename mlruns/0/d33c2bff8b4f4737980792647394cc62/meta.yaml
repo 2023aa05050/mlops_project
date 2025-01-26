@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/PycharmProjects/mlops_project/mlruns/0/d33c2bff8b4f4737980792647394cc62/artifacts
+end_time: 1737879280995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d33c2bff8b4f4737980792647394cc62
+run_name: delightful-fawn-227
+run_uuid: d33c2bff8b4f4737980792647394cc62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879265658
+status: 4
+tags: []
+user_id: selva

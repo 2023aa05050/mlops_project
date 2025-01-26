@@ -1,6 +1,10 @@
 pandas
-numpy
 scikit-learn
-joblib
+mlflow
+optuna
+dvc
+flask
+gitpython
 pytest
+black
 flake8
