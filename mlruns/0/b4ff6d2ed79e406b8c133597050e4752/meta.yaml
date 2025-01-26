@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/PycharmProjects/mlops_project/mlruns/0/b4ff6d2ed79e406b8c133597050e4752/artifacts
+end_time: 1737876797508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4ff6d2ed79e406b8c133597050e4752
+run_name: fearless-worm-238
+run_uuid: b4ff6d2ed79e406b8c133597050e4752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737876570389
+status: 3
+tags: []
+user_id: selva

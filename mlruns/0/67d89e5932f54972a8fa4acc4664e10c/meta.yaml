@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/PycharmProjects/mlops_project/mlruns/0/67d89e5932f54972a8fa4acc4664e10c/artifacts
+end_time: 1737879479548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67d89e5932f54972a8fa4acc4664e10c
+run_name: intelligent-elk-79
+run_uuid: 67d89e5932f54972a8fa4acc4664e10c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737879477920
+status: 4
+tags: []
+user_id: selva
